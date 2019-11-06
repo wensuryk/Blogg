@@ -1,3 +1,15 @@
-/* body{
-    background-color: red;
-} */
+.title1{
+    margin-right: 10px;
+}
+.form-bottom{
+    margin-bottom: 15px;
+}
+.text-width{
+    width: 30%;
+}
+.text-height{
+height: 100px;
+}
+.list-img ul li{
+    list-style-image: image()
+}
